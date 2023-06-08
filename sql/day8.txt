@@ -1,0 +1,7 @@
+Day  8
+
+Looked into Django, a python framework used to create web application.
+Learnt about the MVT design pattern. How to create a virtual environment and create a Django project.
+
+Main activity: learnt how to use
+SQL SELECT DISTINCT statement to return only distinct values from a field(s) in a table.
