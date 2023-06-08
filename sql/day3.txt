@@ -1,0 +1,12 @@
+Day 3
+
+SQL Syntax
+SQL follows some unique set of rules and guidelines called syntax.
+ It is not case sensitive, general keywords are written in uppercase.
+  SQL statements ends with a semicolon. Most of the actions you need to
+   perform on a database is done with SQL statements. SQL COMMANDS;
+   SELECT extracts data from a database, UPDATE updates data in database,
+    DELECT deletes data from the database, CREATE TABLE creates a new table,
+    ALTER TABLE used to modify the table,
+DROP TABLE deletes a table,CREATE DATABASE it creates new database,
+ALTER DATABASE modify a database etc
