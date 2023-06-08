@@ -1,0 +1,5 @@
+day6
+
+I wrote queries, the activity involves creating creating a database,
+table, and populating it with instances of the table entity. retrieving
+data from the database and deleting data from the table.
