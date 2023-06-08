@@ -1,0 +1,9 @@
+Day 4
+
+SQL Datatypes
+It defines the kind of value that a column can contain.
+ In a database every column is required to have a name and a data type.
+  Some of the data types are Integer, smallint, numeric, real, decimal, float, character,
+  bit, date, time, timestamp etc SQL Operators, there are three types of Operators In SQL ,
+   Arthmetic (+,-,*,/,%), comparison (=,!=,<>,>,=<,>=)and logical operators(ALL, AND OR, NOT ,
+   EXISTS ,LIKE, IN ,BETWEEN,ANY).
