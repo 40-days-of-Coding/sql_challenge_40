@@ -1,0 +1,5 @@
+Day 5
+SQL CREATE DATABASE statement is used to create a database.
+Syntax is CREATE DATABASE db_name; SQL DROP Database is used to to delete the database,
+ syntax DROP DATABASE db_name,, SQL SELECT statement used to query or
+ retrieve data from a table in the  database, syntax SELECT col_name(s) FROM table_name ,etc,
