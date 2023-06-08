@@ -1,0 +1,19 @@
+day 7
+
+I worked on another project - portfolio-ui
+making it reponsive for all screens
+
+I also learnt how to use the `order by` keyword
+to filter result-set in ascending or descending order.
+
+syntax :
+
+        SELECT column1, column2, ...
+        FROM table_name
+        ORDER BY column1, column2, ... ASC|DESC;
+
+and how to use the `insert into` statement to insert data into a table
+
+syntax :
+        INSERT INTO table_name (column1, column2, column3, ...)
+        VALUES (value1, value2, value3, ...);
