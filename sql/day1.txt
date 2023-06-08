@@ -1,0 +1,8 @@
+Day 1
+
+SQL( STRUCTURED QUERY LANGUAGE)
+
+Is a standard language for storing, manipulating and retrieving data in the database.
+It is a query language not a database. To perform queries you'll need to install a
+database (RDMS - Relational Database Management System) for example Oracle, MySQL, PostgreSQL, SQL server, DB2 etc.
+Some of the major query commands are SELECT, UPDATE, DELETE, INSERT, WHERE etc
