@@ -1,0 +1,11 @@
+Day 2.
+What is Database?
+It it is an organized collection of data.
+SQL is used to perform operations on the data stored in a database.
+Data is represented in terms of tuples (rows) in RDBMS.
+Relational Database contains number of tables and each table has its own primary key.
+RDBMS uses tables to store data. A table is a collection of related data entries and
+contains rows and columns to store data. A field is an attribute that contains specific
+information about every record (row) in the table. A row contains specific information
+of each individual entry in the table. It is a horizontal entity.
+A column is vertical entity that contains information associated with each attributes
